@@ -1,4 +1,4 @@
-:imagesdir: ../images
+:imagesdir: images
 == Included Section
 
 Look, I came from out of the [blue]#blue#!
