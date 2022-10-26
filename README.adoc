@@ -10,5 +10,5 @@ An 'open block', like this one, can contain other blocks.
 
 It can also act as any other block. (TODO)
 
-image::sample.png[]
+image::capture.png[]
 --
